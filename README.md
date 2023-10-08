@@ -1,1 +1,1 @@
-# capstone.1
+https://shubhangidunde.github.io/capstone.1/
